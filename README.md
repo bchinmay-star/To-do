@@ -1,6 +1,7 @@
 # To-Do List Android App
 An android application where a user can enter a task and it will be shown in the To-do list and when you mark it as complete and remove it from the To-do list, it will be shown in the Completed task list.
 
+## Demo
 <img src="https://github.com/bchinmay-star/To-do/blob/master/Screenrecording_20220202_153501.gif" width="300" height="600">
 
 ## Features
