@@ -16,8 +16,7 @@
         android:fontFamily="@font/abeezee"
         android:hint="@string/enter_the_task_here"
         android:inputType="text"
-        android:textColor="#000000"
-        android:autofillHints="" />
+        android:textColor="#000000"/>
 
     <View
         android:id="@+id/divider"

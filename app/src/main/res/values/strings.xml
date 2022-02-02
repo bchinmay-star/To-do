@@ -3,6 +3,6 @@
     <string name="enter_the_task_here">Enter the task here</string>
     <string name="to_do_list">To-do List</string>
     <string name="completed_tasks">Completed tasks</string>
-    <string name="remove_completed_tasks">Remove completed tasks</string>
     <string name="sample_task">Sample task</string>
+    <string name="remove_completed_tasks">Remove completed tasks</string>
 </resources>
